@@ -244,7 +244,7 @@ names(manhattan_df)[1] <- 'icePlease'
 str(manhattan_df) # shows us our column labels, our data types, and the first few data points.
 
 # Checkpoint 5:  --------------------------------------------------
-# Turn your vector into a dataframe. Add a column called 'pie' of characters (words) that relate to pies.Rename another column to be called 'pizza'
+# Turn your matrix into a dataframe. Add a column called 'pie' of characters (words) that relate to pies.Rename another column to be called 'pizza'
 
 
 # Let's look at some data! ------------------------------------------------
